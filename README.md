@@ -1,3 +1,4 @@
-> # Hello and welcome on my github page
+> # ${\textsf{\color{#eeeeee}Hi, my name is}}$ ${\text{\color{#fff}SemTenz}}$
 
-> ## ${\textsf{\color{#666}My name is Sem Jaeger, I am 18 years old and I come from the Netherlands. I am currently studying software development at MBO Utrecht}}$ ${\textsf{\color{#666}I mainly code in PHP and HTML but i also can use javascript.}}$ 
+> ## ${\textsf{\color{#fff}About me}}$
+> ${\textsf{\color{#eeeeee}My name is Sem Jaeger, I am 18 years old and i come from the Netherlands. I am currently studying software development at MBO Utrecht}}$ 
